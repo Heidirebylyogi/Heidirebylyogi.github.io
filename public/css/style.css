@@ -10,13 +10,10 @@ html,body{
 	width: 100%;
 }
 
-.container{
-	justify-content: center;
-}
-
 #home{
 	padding-top:30px;
-	justify-content: center;
+	display: block;
+	margin: auto;	
 }
 
 .text{
