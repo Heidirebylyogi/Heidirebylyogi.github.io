@@ -15,7 +15,8 @@ app.config(function($routeProvider, $locationProvider){
 		controller : 'galleryController'
 	});
 
-		$locationProvider.html5Mode(true);
+		$locationProvider.html5Mode(false);
+		$locationProvider.hashPrefix("!");
 
 });
 app.animation('.reveal-animation', function() {
