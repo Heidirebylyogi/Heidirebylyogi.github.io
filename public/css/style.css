@@ -10,6 +10,9 @@ html,body{
 	width: 100%;
 }
 
+.container{
+	justify-content: center;
+}
 
 #home{
 	padding-top:30px;
@@ -155,4 +158,3 @@ a.nav-link:hover{
 	border-bottom: 2px solid rgba(200, 200, 200, 1);
 
 }
-
