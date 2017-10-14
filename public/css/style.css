@@ -13,6 +13,7 @@ html,body{
 
 #home{
 	padding-top:30px;
+	justify-content: center;
 }
 
 .text{
